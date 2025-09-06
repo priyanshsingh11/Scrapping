@@ -1,24 +1,7 @@
 Web Scraper
 A Python tool for extracting data from websites. Efficient, configurable, and easy to use.
+with the *Tech Stack* =>
 
-Install & Run
-bash
-git clone https://github.com/priyanshsingh11/Scrapping.git
-cd Scrapping
-pip install -r requirements.txt
-python main.py --url https://example.com
-Features
-Export to CSV/JSON
-
-Error handling & retries
-
-Configurable delays
-
-Respects robots.txt
-
-Ethical scraping practices
-
-Tech Stack
 Python 3.8+
 
 BeautifulSoup4 - HTML parsing
